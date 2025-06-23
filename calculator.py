@@ -101,7 +101,7 @@ class CalculatorApp(ctk.CTk):
             self.add_operation(event.char)
         elif event.char == "\r":
             self.calculate()
-        elif event.char.lower() == 'c':
+        elif event.char == "\x08":
             self.clear()
 
 if __name__ == "__main__":
