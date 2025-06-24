@@ -1,7 +1,14 @@
 # CTKCalculator
 
+### Preview
+
+![Calculator Preview](https://github.com/mihaiapostol14/CTKCalculator/blob/1a6dc94189c9544126087d20f125281ecfba7012/assets/preview.png)
+
 ## Overview
 This repository contains a calculator application built using Tkinter, a standard GUI library for Python. The project aims to provide a simple and functional calculator interface for basic arithmetic operations.
+
+
+
 
 ## Features
 - Addition, subtraction, multiplication, and division operations

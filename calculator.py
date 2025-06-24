@@ -11,7 +11,7 @@ class CalculatorApp(ctk.CTk):
 
         self.configure(bg="#f5f6fa")
         self.resizable(False, False)
-        self.iconbitmap(bitmap='calculator.ico')
+        self.iconbitmap(bitmap='./assets/icon/calculator.ico')
 
         # Entry field
         self.entry_var = ctk.StringVar(value="0")
